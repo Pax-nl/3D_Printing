@@ -12,7 +12,10 @@ Those machines have the Cartridge slot 'upside-down' and you are looking at a pl
 This design also makes it possible to print the MSX Pico logo with another color.
 And if you have some soldering skills you could add some extra LED's which light up when Music is playing via the MSX Pico.
 
-![Bambu Studio](MSX/Pico/bambu-studio.jpg)
+![Bambu Studio](MSX/Pico/images/MSXPico-front.jpg)
+![Bambu Studio](MSX/Pico/images/MSXPico-back.jpg)
+
+
 
 
 
