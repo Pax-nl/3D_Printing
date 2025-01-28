@@ -2,7 +2,6 @@
 
 Here are some of my 3D print files projects.
 
-Created with Freecad
 
 # MSXPico-Part.3mf
 
@@ -12,9 +11,23 @@ Those machines have the Cartridge slot 'upside-down' and you are looking at a pl
 This design also makes it possible to print the MSX Pico logo with another color.
 And if you have some soldering skills you could add some extra LED's which light up when Music is playing via the MSX Pico.
 
-![Bambu Studio](MSX/Pico/images/MSXPico-front.jpg)
-![Bambu Studio](MSX/Pico/images/MSXPico-back.jpg)
+![Bambu Studio](MSX/Pico/images/front.jpg)
+![Bambu Studio](MSX/Pico/images/back.jpg)
 
+
+# Oyanami MegaRom Cartridge
+
+Mike from www.leadedsolder.com
+
+Created a Cartridge where you can flash MSX Konami-mapper roms up to 128Kb.
+
+https://www.leadedsolder.com/2024/09/03/msx-megarom-oyanami.html
+
+I made case you can 3D print: ![MSX Cartridge for Oyanami](MSX/OYANAMI/MSX Cartridge v6.3mf)
+
+![Front](MSX/OYANAMI/images/front.jpg)
+![Back](MSX/OYANAMI/images/back.jpg)
+![Slicer](MSX/OYANAMI/images/slicer.jpg)
 
 
 
