@@ -43,7 +43,7 @@ https://github.com/konkotgit/MSX-DC-600
 
 ![Front](MSX/DC-600/images/front.jpg)
 ![Back](MSX/DC-600/images/back.jpg)
-![Slicer](MSX/DC-600/images/top.jpg)
+![Top](MSX/DC-600/images/top.jpg)
 
 
 
